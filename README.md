@@ -59,9 +59,9 @@ I build **evaluation infrastructure**, currently working on retrieval evals at *
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| 🔍 **[termlens](https://github.com/rynbol/termlens)** | Highlight any term on a page → plain-language explanation in context. BYO API key, zero telemetry. | `MV3` `JavaScript` |
-| 🔐 **[security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool)** | 17 merged PRs into Thales' open-source risk-assessment tool: defect fixes, schema validation, vuln tracking. | `Electron` |
-| 🏦 **Distributed banking system** | Custom binary protocol over lossy UDP (30% packet loss), at-most-once execution via server-side dedup. | `C++` `Python` |
+| 🔍 **[termlens](https://github.com/rynbol/termlens)** | Select any term on a page and get an explanation tied to its surrounding context.. | `MV3` `JavaScript` |
+| 🔐 **[security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool)** | Contributed to Thales’ open-source ISRA platform during my internship. Multiple pull requests merged upstream for fixes and features | `Electron` |
+| 🏦 **Distributed banking system** | Custom binary protocol over lossy UDP. | `C++` `Python` |
 | 🧪 **Retrieval evals @ Dosu** | Adapted a 500-question enterprise RAG benchmark to 165 compatible questions; LLM-as-judge scoring. | `Python` `RAG` |
 
 ## 📊 GitHub Stats
