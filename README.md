@@ -15,13 +15,13 @@
 
 ## 🧭 About
 
-I build **evaluation infrastructure that catches failures before users do** — currently working on retrieval evals at **[Dosu](https://dosu.dev)** in the SF Bay Area.
+I build **evaluation infrastructure**, currently working on retrieval evals at **[Dosu](https://dosu.dev)** in the Bay Area.
 
 - 🎓 CS @ **NTU Singapore** — B.Comp (Hons), Dec 2027
 - 🔭 Currently: RAG benchmarks & LLM-as-judge scoring @ **Dosu**
 - 🛠️ Previously: multi-audience OAuth in Go @ **Autodesk** · squashing production defects @ **Thales**
-- ⚡ Into: systems that hold up under load, OAuth protocols, retrieval evals
-- 📫 Reach me: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg)
+- ⚡ Into systems that hold up under load, OAuth protocols, retrieval evals
+- 📫 Contact me: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg)
 
 ## 🌐 Portfolio
 
