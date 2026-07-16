@@ -29,7 +29,7 @@ I build **evaluation infrastructure**, currently working on retrieval evals at *
   <tr>
     <td width="100%">
       <h3>🖥️ <a href="https://portfolio-site-one-beta-14.vercel.app">dylan aw · portfolio</a></h3>
-      <p>A terminal-inspired site built as a live <em>evaluation run</em></p>
+      <p>A terminal-inspired site built as a live evaluation run</p>
       <p>
         <a href="https://portfolio-site-one-beta-14.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-2EA97F?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" /></a>
         &nbsp;&nbsp;
