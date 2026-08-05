@@ -37,4 +37,4 @@ I use these languages and tools:
 
 ## Portfolio
 
-[dylan aw · portfolio](https://portfolio-site-one-beta-14.vercel.app) uses a terminal design. It runs as a live evaluation, with interactive self-tests and fault-injection demos.
+[dylan aw · portfolio](https://portfolio-site-one-beta-14.vercel.app) 
