@@ -10,19 +10,21 @@ Software engineer. AI/ML evals, backend systems, and distributed systems.
 
 I build evaluation infrastructure. At [Dosu](https://dosu.dev) in the Bay Area, I work on retrieval evals.
 
-- CS at NTU Singapore, B.Comp (Hons), Dec 2027
-- Now: RAG benchmarks and LLM-as-judge scores at Dosu
-- Before: multi-audience OAuth in Go at Autodesk, production defect fixes at Thales
-- Interests: systems that stay reliable under load, OAuth protocols, and retrieval evals
-- Contact: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg)
+- CS at NTU Singapore, B.Comp (Hons), Dec 2027.
+- Now: RAG benchmarks and LLM-as-judge scores at Dosu.
+- Before: multi-audience OAuth in Go at Autodesk, and production defect fixes at Thales.
+- Interests: systems that stay reliable under load, OAuth protocols, and retrieval evals.
+- Contact: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg).
 
 ## Stack
 
-- **Languages** Go, Python, TypeScript, JavaScript, Java, C, C++, C#
-- **AI and retrieval** RAG, retrieval evaluation, LLM as judge, embeddings
-- **Backend and data** Node.js, Express, .NET, PostgreSQL, MS SQL, Redis, Supabase, AWS S3
-- **Tools** Docker, Jenkins, GitHub Actions, Git, LaunchDarkly
-- **Frontend** React, Next.js, React Native, Expo
+I use these languages and tools:
+
+- **Languages** Go, Python, TypeScript, JavaScript, Java, C, C++, and C#.
+- **AI and retrieval** RAG, retrieval evaluation, LLM as judge, and embeddings.
+- **Backend and data** Node.js, Express, .NET, PostgreSQL, MS SQL, Redis, Supabase, and AWS S3.
+- **Tools** Docker, Jenkins, GitHub Actions, Git, and LaunchDarkly.
+- **Frontend** React, Next.js, React Native, and Expo.
 
 ## Featured work
 
