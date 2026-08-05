@@ -15,13 +15,13 @@
 
 ## 🧭 About
 
-I build **evaluation infrastructure**, currently working on retrieval evals at **[Dosu](https://dosu.dev)** in the Bay Area.
+I build **evaluation infrastructure**. At **[Dosu](https://dosu.dev)** in the Bay Area, I work on retrieval evals.
 
-- 🎓 CS @ **NTU Singapore**, B.Comp (Hons), Dec 2027
-- 🔭 Currently: RAG benchmarks & LLM-as-judge scoring @ **Dosu**
-- 🛠️ Previously: multi-audience OAuth in Go @ **Autodesk** · production defect fixes @ **Thales**
-- ⚡ Into systems that hold up under load, OAuth protocols, retrieval evals
-- 📫 Contact me: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg)
+- 🎓 CS at **NTU Singapore**, B.Comp (Hons), Dec 2027
+- 🔭 Now: RAG benchmarks and LLM-as-judge scores at **Dosu**
+- 🛠️ Before: multi-audience OAuth in Go at **Autodesk**, production defect fixes at **Thales**
+- ⚡ Interests: systems that stay reliable under load, OAuth protocols, and retrieval evals
+- 📫 Contact: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg)
 
 ## 🌐 Portfolio
 
@@ -29,7 +29,7 @@ I build **evaluation infrastructure**, currently working on retrieval evals at *
   <tr>
     <td width="100%">
       <h3>🖥️ <a href="https://portfolio-site-one-beta-14.vercel.app">dylan aw · portfolio</a></h3>
-      <p>A terminal-inspired site built as a live evaluation run</p>
+      <p>This site uses a terminal design. It runs as a live evaluation.</p>
       <p>
         <a href="https://portfolio-site-one-beta-14.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-2EA97F?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" /></a>
         &nbsp;&nbsp;
@@ -47,11 +47,11 @@ I build **evaluation infrastructure**, currently working on retrieval evals at *
 
 <img src="https://skillicons.dev/icons?i=go,python,ts,js,java,c,cpp,cs&perline=8" />
 
-**Backend & Data**
+**Backend and Data**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,redis,supabase,aws,docker&perline=8" />
 
-**Tools & Frontend**
+**Tools and Frontend**
 
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,react,nextjs&perline=8" />
 
@@ -59,10 +59,10 @@ I build **evaluation infrastructure**, currently working on retrieval evals at *
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| 🔍 **[termlens](https://github.com/rynbol/termlens)** | Select any term on a page and get an explanation tied to its surrounding context.. | `MV3` `JavaScript` |
-| 🔐 **[security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool)** | Contributed to Thales’ open-source ISRA platform during my internship. Multiple pull requests merged upstream for fixes and features | `Electron` |
-| 🏦 **Distributed banking system** | Custom binary protocol over lossy UDP. | `C++` `Python` |
-| 🧪 **Retrieval evals @ Dosu** | Adapted a 500-question enterprise RAG benchmark to 165 compatible questions; LLM-as-judge scoring. | `Python` `RAG` |
+| 🔍 **[termlens](https://github.com/rynbol/termlens)** | It explains a term that you select on a page. The explanation uses the context of the paragraph. | `MV3` `JavaScript` |
+| 🔐 **[security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool)** | I contributed to the open-source ISRA platform of Thales during my internship. Upstream merged multiple pull requests for fixes and features. | `Electron` |
+| 🏦 **Distributed banking system** | It uses a custom binary protocol over UDP with packet loss. | `C++` `Python` |
+| 🧪 **Retrieval evals at Dosu** | I adapted a 500-question enterprise RAG benchmark to 165 compatible questions. An LLM judge gives the scores. | `Python` `RAG` |
 
 ## 📊 GitHub Stats
 
