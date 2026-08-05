@@ -11,8 +11,8 @@ Software engineer. AI/ML evals, backend systems, and distributed systems.
 I build evaluation infrastructure. At [Dosu](https://dosu.dev) in the Bay Area, I work on retrieval evals.
 
 - CS at NTU Singapore, B.Comp (Hons), Dec 2027.
-- Now: RAG benchmarks and LLM-as-judge scores at Dosu.
-- Before: multi-audience OAuth in Go at Autodesk, and production defect fixes at Thales.
+- Currently AI Engineer Intern @ Dosu 
+- Previous experiences: multi-audience OAuth in Go at Autodesk, and production defect fixes at Thales.
 - Interests: systems that stay reliable under load, OAuth protocols, and retrieval evals.
 - Contact: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg).
 
