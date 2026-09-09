@@ -2,39 +2,35 @@
 
 Software engineer. AI/ML evals, backend systems, and distributed systems.
 
-[Portfolio](https://portfolio-site-one-beta-14.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dylan-aw-219657283) · [Email](mailto:daw001@e.ntu.edu.sg)
+[Portfolio](https://dylan-aw.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/dylan-aw-219657283) · [Email](mailto:dylanaw16@gmail.com)
 
 ---
 
 ## About
 
-I build evaluation infrastructure. At [Dosu](https://dosu.dev) in the Bay Area, I work on retrieval evals.
+I build evaluation infrastructure. At [Dosu](https://dosu.dev) @ SF Bay Area, interested in evals!
 
-- CS at NTU Singapore, B.Comp (Hons), Dec 2027.
+- CS @ NTU Singapore
 - Currently AI Engineer Intern @ Dosu 
-- Previous experiences: multi-audience OAuth in Go at Autodesk, and production defect fixes at Thales.
-- Interests: systems that stay reliable under load, OAuth protocols, and retrieval evals.
-- Contact: [daw001@e.ntu.edu.sg](mailto:daw001@e.ntu.edu.sg).
+- Previous experiences: multi-audience OAuth (Go) @ Autodesk, and maintaining open source @ Thales.
 
 ## Stack
 
-I use these languages and tools:
-
-- **Languages** Go, Python, TypeScript, JavaScript, Java, C, C++, and C#.
-- **AI and retrieval** RAG, retrieval evaluation, LLM as judge, and embeddings.
-- **Backend and data** Node.js, Express, .NET, PostgreSQL, MS SQL, Redis, Supabase, and AWS S3.
-- **Tools** Docker, Jenkins, GitHub Actions, Git, and LaunchDarkly.
-- **Frontend** React, Next.js, React Native, and Expo.
+- **Languages** Go, Python, TypeScript, JavaScript, Java, C, C++, C#.
+- **AI and retrieval** RAG, retrieval evaluation, embeddings.
+- **Backend and data** Node.js, Express, .NET, PostgreSQL, MS SQL, Redis, Supabase, AWS S3.
+- **Tools** Docker, Jenkins, GitHub Actions, Git, LaunchDarkly.
+- **Frontend** React, Next.js, Expo.
 
 ## Featured work
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | [termlens](https://github.com/rynbol/termlens) | It explains a term that you select on a page. The explanation uses the context of the paragraph. | `MV3` `JavaScript` |
-| [security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool) | I contributed to the open-source ISRA platform of Thales during my internship. Upstream merged multiple pull requests for fixes and features. | `Electron` |
-| Distributed banking system | It uses a custom binary protocol over UDP with packet loss. | `C++` `Python` |
-| Retrieval evals at Dosu | I adapted a 500-question enterprise RAG benchmark to 165 compatible questions. An LLM judge gives the scores. | `Python` `RAG` |
+| [security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool) | Contributed to the open source ISRA platform of Thales during my internship. Merged multiple pull requests for fixes and features. | `Electron` |
+| Distributed banking system | Uses a custom binary protocol over UDP with packet loss. | `C++` `Python` |
+| Retrieval evals @ Dosu | Retrieval evals for different AI architectures to improve and optimize systems. | `Python` `RAG` |
 
 ## Portfolio
 
-[dylan aw · portfolio](https://portfolio-site-one-beta-14.vercel.app) 
+[dylan aw · portfolio](https://dylan-aw.vercel.app/) 
