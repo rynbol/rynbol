@@ -26,10 +26,11 @@ I build evaluation infrastructure. At [Dosu](https://dosu.dev) @ SF Bay Area, in
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| [termlens](https://github.com/rynbol/termlens) | It explains a term that you select on a page. The explanation uses the context of the paragraph. | `MV3` `JavaScript` |
-| [security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool) | Contributed to the open source ISRA platform of Thales during my internship. Merged multiple pull requests for fixes and features. | `Electron` |
+| [Beacon](https://github.com/rynbol/beacon) | Custom app to organize reminders and calendar events. | `Swift` |
+| [termlens](https://github.com/rynbol/termlens) | Tool to explain terms when reading, | `MV3` `JavaScript` |
+| [security-risk-assessment-tool](https://github.com/ThalesGroup/security-risk-assessment-tool) | Released and contributed to a new beta version of Thales' open source ISRA tool. | `Electron` |
 | Distributed banking system | Uses a custom binary protocol over UDP with packet loss. | `C++` `Python` |
-| Retrieval evals @ Dosu | Retrieval evals for different AI architectures to improve and optimize systems. | `Python` `RAG` |
+| Retrieval evals @ Dosu | Retrieval evals for different AI architectures to improve and optimize systems. | `Evals` `Python` |
 
 ## Portfolio
 
