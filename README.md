@@ -8,11 +8,11 @@ Software engineer. AI/ML evals, backend systems, and distributed systems.
 
 ## About
 
-I build evaluation infrastructure for AI agents. Right now I am an AI Engineering Intern at [Dosu](https://dosu.dev) in San Francisco, where I build retrieval evals.
+I build evaluation infrastructure for AI agents. Currently an AI Engineering Intern at [Dosu](https://dosu.dev) in San Francisco, where I build retrieval evals.
 
 - CS @ NTU Singapore
-- Now: AI Engineering Intern @ Dosu
-- Before: multi-audience OAuth in Go @ Autodesk, and open source maintenance @ Thales
+- AI Engineering Intern @ Dosu
+- Prev: multi-audience OAuth in Go @ Autodesk, and open source maintenance @ Thales
 
 ## Stack
 
