@@ -2,7 +2,7 @@
 
 Software engineer. AI/ML evals, backend systems, and distributed systems.
 
-[Portfolio](https://dylan-aw.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/dylan-aw-219657283) · [Email](mailto:dylanaw16@gmail.com)
+[Portfolio](https://dylanaw.com/) · [LinkedIn](https://www.linkedin.com/in/dylan-aw-219657283) · [Email](mailto:dylanaw16@gmail.com)
 
 ---
 
